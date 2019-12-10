@@ -1,0 +1,1643 @@
+﻿Log file open, 05/20/19 17:06:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EvilCube
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159465
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.20-11.36.42:516][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.20-11.36.42:516][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.20-11.36.42:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:516][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.20-11.36.42:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:516][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.20-11.36.42:516][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.20-11.36.42:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:517][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:521][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.20-11.36.42:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.20-11.36.42:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.20-11.36.42:523][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.20-11.36.42:523][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-11.36.42:523][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.20-11.36.42:546][  0]LogHAL: Display: Platform has ~ 8 GB [8467361792 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.20-11.36.42:546][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.20-11.36.42:546][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.20-11.36.42:547][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.20-11.36.42:547][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.20-11.36.42:548][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-11.36.42:549][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.20-11.36.42:549][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.20-11.36.42:549][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Config/Windows/Engine.ini]
+[2019.05.20-11.36.42:549][  0]LogInit: Computer: DESKTOP-V9UUFFK
+[2019.05.20-11.36.42:549][  0]LogInit: User: chinu
+[2019.05.20-11.36.42:549][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.05.20-11.36.42:549][  0]LogInit: High frequency timer resolution =2.648434 MHz
+[2019.05.20-11.36.42:550][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.20-11.36.42:550][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.20-11.36.42:550][  0]LogMemory: Process Physical Memory: 96.36 MB used, 96.36 MB peak
+[2019.05.20-11.36.42:550][  0]LogMemory: Process Virtual Memory: 91.91 MB used, 91.91 MB peak
+[2019.05.20-11.36.42:550][  0]LogMemory: Physical Memory: 3122.64 MB used,  4952.46 MB free, 8075.11 MB total
+[2019.05.20-11.36.42:550][  0]LogMemory: Virtual Memory: 511.55 MB used,  134217216.00 MB free, 134217728.00 MB total
+[2019.05.20-11.36.42:575][  0]LogInit: Using OS detected language (en-US).
+[2019.05.20-11.36.42:575][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.20-11.36.42:576][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.20-11.36.42:740][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.20-11.36.42:771][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.20-11.36.42:771][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.20-11.36.42:989][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-11.36.42:989][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.20-11.36.43:026][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2019.05.20-11.36.43:026][  0]LogD3D11RHI:       2020/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.20-11.36.43:033][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.05.20-11.36.43:033][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.20-11.36.43:034][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.20-11.36.43:034][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.20-11.36.43:034][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.20-11.36.43:038][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.20-11.36.43:038][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.20-11.36.43:038][  0]LogWindows: EnumDisplayDevices:
+[2019.05.20-11.36.43:038][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.05.20-11.36.43:038][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.05.20-11.36.43:039][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.05.20-11.36.43:039][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.20-11.36.43:039][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2019.05.20-11.36.43:039][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.20-11.36.43:039][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.20-11.36.43:039][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2019.05.20-11.36.43:060][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.20-11.36.43:063][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.20-11.36.43:063][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.20-11.36.43:063][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.20-11.36.43:076][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.20-11.36.43:365][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.20-11.36.43:383][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.20-11.36.43:399][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.20-11.36.43:415][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.20-11.36.43:433][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.20-11.36.43:448][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.20-11.36.43:461][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.20-11.36.43:475][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.20-11.36.43:481][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.20-11.36.43:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.20-11.36.43:564][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.20-11.36.43:612][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.20-11.36.43:612][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.20-11.36.43:636][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.20-11.36.43:636][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.20-11.36.43:649][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.20-11.36.43:661][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.20-11.36.43:673][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.20-11.36.43:685][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.20-11.36.43:734][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.20-11.36.43:734][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.20-11.36.43:734][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.20-11.36.43:743][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.20-11.36.43:794][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Intermediate/Shaders/WorkingDirectory/4284/).
+[2019.05.20-11.36.43:794][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Asus/AppData/Local/Temp/UnrealShaderWorkingDir/F21E747D4484226E24DCEB9EE61F7F36/'.
+[2019.05.20-11.36.43:796][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.20-11.36.43:796][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.20-11.36.43:796][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.20-11.36.44:400][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.20-11.36.44:468][  0]LogDerivedDataCache: Loaded boot cache 0.07s 72MB C:/Users/Asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.20-11.36.44:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.20-11.36.44:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.20-11.36.44:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.20-11.36.44:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-11.36.44:468][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.20-11.36.44:482][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.20-11.36.44:485][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.05.20-11.36.44:498][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.20-11.36.44:498][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.20-11.36.44:498][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.20-11.36.44:519][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.20-11.36.44:520][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.20-11.36.44:520][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.20-11.36.44:605][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.05.20-11.36.44:958][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-11.36.45:092][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.20-11.36.45:092][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.20-11.36.45:092][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.20-11.36.45:092][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.20-11.36.45:092][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.20-11.36.45:108][  0]LogNetVersion: EvilCube 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3297027470)
+[2019.05.20-11.36.45:558][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.067080 seconds
+[2019.05.20-11.36.45:565][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.20-11.36.45:565][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.20-11.36.45:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.20-11.36.46:374][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.20-11.36.46:402][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.20-11.36.46:524][  0]SourceControl: Source control is disabled
+[2019.05.20-11.36.46:524][  0]SourceControl: Source control is disabled
+[2019.05.20-11.36.46:526][  0]SourceControl: Source control is disabled
+[2019.05.20-11.36.46:527][  0]SourceControl: Source control is disabled
+[2019.05.20-11.36.46:534][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.20-11.36.46:535][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.20-11.36.47:162][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.20-11.36.47:202][  0]LogOcInput: OculusInput pre-init called
+[2019.05.20-11.36.51:304][  0]LogEngine: Initializing Engine...
+[2019.05.20-11.36.51:304][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-11.36.51:305][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.20-11.36.51:542][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.20-11.36.51:558][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-11.36.51:573][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-11.36.51:592][  0]LogInit: FAudioDevice initialized.
+[2019.05.20-11.36.51:592][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.20-11.36.51:809][  0]LogDerivedDataCache: Saved boot cache 0.22s 72MB C:/Users/Asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.20-11.36.51:843][  0]LogInit: Texture streaming: Enabled
+[2019.05.20-11.36.51:866][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.20-11.36.51:885][  0]LogInit: Transaction tracking system initialized
+[2019.05.20-11.36.51:907][  0]BlueprintLog: New page: Editor Load
+[2019.05.20-11.36.52:193][  0]LocalizationService: Localization service is disabled
+[2019.05.20-11.36.52:342][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.20-11.36.52:343][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.20-11.36.52:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asus/Documents/Unreal Projects/EvilCube/Content/' took 0.01s
+[2019.05.20-11.36.52:525][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.20-11.36.52:525][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.20-11.36.54:791][  0]SourceControl: Source control is disabled
+[2019.05.20-11.36.54:791][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.20-11.36.54:792][  0]LightingResults: New page: Lighting Build
+[2019.05.20-11.36.54:794][  0]MapCheck: New page: Map Check
+[2019.05.20-11.36.54:794][  0]LightingResults: New page: Lighting Build
+[2019.05.20-11.36.54:823][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.05.20-11.36.58:197][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.20-11.36.59:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.20-11.36.59:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.20-11.36.59:226][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.20-11.36.59:226][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2019.05.20-11.36.59:226][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.435
+[2019.05.20-11.36.59:299][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.20-11.36.59:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.36.59:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.36.59:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.36.59:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.36.59:570][  0]LogCollectionManager: Loaded 0 collections in 0.001666 seconds
+[2019.05.20-11.36.59:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Collections/' took 0.01s
+[2019.05.20-11.36.59:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asus/Documents/Unreal Projects/EvilCube/Content/Developers/chinu/Collections/' took 0.01s
+[2019.05.20-11.36.59:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asus/Documents/Unreal Projects/EvilCube/Content/Collections/' took 0.01s
+[2019.05.20-11.36.59:609][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.20-11.36.59:618][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2864 classes and 726 folders.
+[2019.05.20-11.36.59:640][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.20-11.36.59:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-11.36.59:683][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.20-11.36.59:686][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.20-11.36.59:825][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.20-11.36.59:828][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.20-11.36.59:867][  0]LogSlate: Took 0.029738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.20-11.37.00:022][  0]LogRenderer: Reallocating scene render targets to support 688x300 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-11.37.00:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-11.37.00:282][  0]LogLoad: (Engine Initialization) Total time: 19.77 seconds
+[2019.05.20-11.37.00:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.20-11.37.00:321][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.20-11.37.00:333][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-11.37.11:110][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.37.13:506][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.37.15:319][765]LogSlate: Window 'New Level' being destroyed
+[2019.05.20-11.37.15:322][765]LightingResults: New page: Lighting Build
+[2019.05.20-11.37.15:336][765]MapCheck: New page: Map Check
+[2019.05.20-11.37.15:336][765]LightingResults: New page: Lighting Build
+[2019.05.20-11.37.15:369][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.05.20-11.37.15:453][765]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-11.37.15:594][765]LoadErrors: New page: New Map
+[2019.05.20-11.37.17:765][889]LogAssetRegistry: Asset discovery search completed in 33.1823 seconds
+[2019.05.20-11.37.17:768][889]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.20-11.37.17:768][889]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2019.05.20-11.37.21:107][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.38.24:820][ 80]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.20-11.38.24:896][ 84]LogHttp: Warning: 0000019969AD5F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.38.24:896][ 84]LogHttp: Warning: 0000019969AD5F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.38.24:896][ 84]LogHttp: Warning: 0000019969AD5F80: libcurl info message cache 1 (Closing connection 0)
+[2019.05.20-11.38.24:896][ 84]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.38.26:985][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.38.31:069][428]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.20-11.39.00:313][160]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (35.465 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.20-11.39.01:597][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.39.34:524][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.40.31:463][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.40.52:743][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.41.00:407][295]LogHttp: Warning: 000001993FB41080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.41.00:407][295]LogHttp: Warning: 000001993FB41080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.41.00:407][295]LogHttp: Warning: 000001993FB41080: libcurl info message cache 1 (Closing connection 1)
+[2019.05.20-11.41.00:418][296]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.42.30:697][704]LogEditorViewport: Clicking Background
+[2019.05.20-11.42.40:178][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.42.55:730][205]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-11.42.55:742][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-11.42.55:783][205]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 10:42:55 PM)
+[2019.05.20-11.42.55:831][205]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-11.42.55:834][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2019.05.20-11.42.55:846][205]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-11.42.55:846][205]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2019.05.20-11.42.55:846][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.014946s)
+[2019.05.20-11.42.55:887][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.20-11.42.55:903][205]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-11.42.55:910][205]LogInit: FAudioDevice initialized.
+[2019.05.20-11.42.55:950][205]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-11.42.55:965][205]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-17.12.55
+[2019.05.20-11.42.55:966][205]LogWorld: Bringing up level for play took: 0.001478
+[2019.05.20-11.42.56:077][205]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2019.05.20-11.42.56:100][205]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.002
+[2019.05.20-11.43.00:477][453]LogHttp: Warning: 000001993F5CE5C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.43.00:477][453]LogHttp: Warning: 000001993F5CE5C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.43.00:477][453]LogHttp: Warning: 000001993F5CE5C0: libcurl info message cache 1 (Closing connection 2)
+[2019.05.20-11.43.00:494][454]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.43.58:620][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.43.58:653][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-11.43.58:706][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.43.58:711][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.05.20-11.43.58:759][930]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.05.20-11.44.03:330][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.44.19:948][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.44.21:315][280]LogEditorViewport: Clicking Background
+[2019.05.20-11.44.21:326][280]LogEditorViewport: Clicking Background
+[2019.05.20-11.44.31:555][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.44.38:354][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.44.38:856][311]LogSlate: Window 'Tutorials' being destroyed
+[2019.05.20-11.44.43:623][587]LogEditorViewport: Clicking Background
+[2019.05.20-11.44.43:724][593]LogEditorViewport: Clicking Background
+[2019.05.20-11.44.44:941][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.45.00:554][550]LogHttp: Warning: 00000199639087C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.45.00:554][550]LogHttp: Warning: 00000199639087C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.45.00:554][550]LogHttp: Warning: 00000199639087C0: libcurl info message cache 1 (Closing connection 3)
+[2019.05.20-11.45.00:554][550]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.45.26:773][106]LogEditorViewport: Clicking Background
+[2019.05.20-11.45.28:867][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.45.30:855][270]LogEditorViewport: Clicking Background
+[2019.05.20-11.45.33:865][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.45.46:402][172]LogEditorViewport: Clicking Background
+[2019.05.20-11.45.47:590][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.45.48:808][303]LogUObjectGlobals: Warning: Failed to find object 'Object None.LevelToolbarPlay'
+[2019.05.20-11.45.55:257][662]LogSlate: Window 'Tutorials' being destroyed
+[2019.05.20-11.45.55:279][662]LogSlate: Window 'Tutorials' being destroyed
+[2019.05.20-11.46.13:418][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.46.14:832][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.46.24:457][405]LogEditorViewport: Clicking Background
+[2019.05.20-11.46.27:460][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.46.27:609][594]Cmd: MODE GRID=0
+[2019.05.20-11.46.28:589][649]Cmd: MODE GRID=1
+[2019.05.20-11.46.44:198][574]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.05.20-11.47.00:594][551]LogHttp: Warning: 000001992631CB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.47.00:594][551]LogHttp: Warning: 000001992631CB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.47.00:594][551]LogHttp: Warning: 000001992631CB80: libcurl info message cache 1 (Closing connection 4)
+[2019.05.20-11.47.00:610][552]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.47.27:896][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.47.30:015][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.48.11:480][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.48.13:263][892]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-11.48.13:273][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-11.48.13:273][892]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 10:48:13 PM)
+[2019.05.20-11.48.13:273][892]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-11.48.13:278][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004940s)
+[2019.05.20-11.48.13:279][892]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-11.48.13:279][892]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2019.05.20-11.48.13:279][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.006115s)
+[2019.05.20-11.48.13:309][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.05.20-11.48.13:312][892]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-11.48.13:320][892]LogInit: FAudioDevice initialized.
+[2019.05.20-11.48.13:321][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.48.13:352][892]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-11.48.13:353][892]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-17.18.13
+[2019.05.20-11.48.13:353][892]LogWorld: Bringing up level for play took: 0.000526
+[2019.05.20-11.48.13:367][892]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.731
+[2019.05.20-11.48.20:364][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.48.20:396][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-11.48.20:456][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-11.48.20:462][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.05.20-11.48.20:511][311]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.20-11.48.23:011][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.48.55:687][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.49.00:648][686]LogHttp: Warning: 000001993FB43380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.49.00:648][686]LogHttp: Warning: 000001993FB43380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.49.00:648][686]LogHttp: Warning: 000001993FB43380: libcurl info message cache 1 (Closing connection 5)
+[2019.05.20-11.49.00:648][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.49.04:718][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.49.08:013][118]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2019.05.20-11.49.30:278][249]LogSlate: Took 0.000871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-11.49.39:271][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-11.49.39:341][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.05.20-11.49.39:511][783]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Untitled_1_Auto15676118E4C4BA5F892DB58BDBC4463F7.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.05.20-11.49.39:535][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.232
+[2019.05.20-11.49.39:535][783]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2019.05.20-11.50.29:102][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-11.51.00:670][581]LogHttp: Warning: 0000019963A7BB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.51.00:670][581]LogHttp: Warning: 0000019963A7BB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.51.00:670][581]LogHttp: Warning: 0000019963A7BB00: libcurl info message cache 1 (Closing connection 6)
+[2019.05.20-11.51.00:686][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.52.22:823][826]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-11.52.45:521][163]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubeAI.EvilCubeAI
+[2019.05.20-11.52.46:269][163]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 121 classes and 0 folders.
+[2019.05.20-11.53.00:305][733]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.418 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.20-11.53.00:732][753]LogHttp: Warning: 000001998BF4FD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.53.00:732][753]LogHttp: Warning: 000001998BF4FD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.53.00:733][753]LogHttp: Warning: 000001998BF4FD80: libcurl info message cache 1 (Closing connection 7)
+[2019.05.20-11.53.00:754][754]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.53.16:411][486]LogSlate: Took 0.036497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.20-11.55.00:791][413]LogHttp: Warning: 000001998F1A1580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.55.00:791][413]LogHttp: Warning: 000001998F1A1580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.55.00:791][413]LogHttp: Warning: 000001998F1A1580: libcurl info message cache 1 (Closing connection 8)
+[2019.05.20-11.55.00:817][414]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.57.00:867][567]LogHttp: Warning: 000001998DD642C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.57.00:867][567]LogHttp: Warning: 000001998DD642C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.57.00:867][567]LogHttp: Warning: 000001998DD642C0: libcurl info message cache 1 (Closing connection 9)
+[2019.05.20-11.57.00:888][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-11.58.07:320][407]LogSlate: Took 0.040495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.20-11.59.00:920][728]LogHttp: Warning: 0000019991063B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-11.59.00:920][728]LogHttp: Warning: 0000019991063B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-11.59.00:920][728]LogHttp: Warning: 0000019991063B00: libcurl info message cache 1 (Closing connection 10)
+[2019.05.20-11.59.00:921][728]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.01.00:968][731]LogHttp: Warning: 00000199915A4180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.01.00:968][731]LogHttp: Warning: 00000199915A4180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.01.00:968][731]LogHttp: Warning: 00000199915A4180: libcurl info message cache 1 (Closing connection 11)
+[2019.05.20-12.01.00:991][732]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.02.25:812][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.05.20-12.02.25:812][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.047
+[2019.05.20-12.02.25:814][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/EvilCubeAI] ([1] browsable assets)...
+[2019.05.20-12.02.25:814][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/EvilCubeAI]
+[2019.05.20-12.02.25:869][234]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubeAI_Auto229A2745D47028D554116308519FC2D97.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Game/BluePrints/EvilCubeAI_Auto2.uasset'
+[2019.05.20-12.02.25:870][234]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.05.20-12.03.01:028][779]LogHttp: Warning: 00000199257D2C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.03.01:028][779]LogHttp: Warning: 00000199257D2C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.03.01:028][779]LogHttp: Warning: 00000199257D2C00: libcurl info message cache 1 (Closing connection 12)
+[2019.05.20-12.03.01:050][780]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.04.19:395][193]BlueprintLog: New page: Compile EvilCubeAI
+[2019.05.20-12.04.19:781][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.05.20-12.04.22:209][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubeAI" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubeAI.uasset" SILENT=true
+[2019.05.20-12.04.22:266][288]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubeAIBDD57E374FE944D94B93CEB48E223D95.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubeAI.uasset'
+[2019.05.20-12.04.38:618][  5]LogSlate: Window 'EvilCubeAI' being destroyed
+[2019.05.20-12.04.57:059][  4]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-12.05.01:105][288]LogHttp: Warning: 0000019986A08E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.05.01:105][288]LogHttp: Warning: 0000019986A08E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.05.01:105][288]LogHttp: Warning: 0000019986A08E00: libcurl info message cache 1 (Closing connection 13)
+[2019.05.20-12.05.01:105][288]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.05.29:200][281]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubePawn.EvilCubePawn
+[2019.05.20-12.05.29:700][281]LogRenderer: Reallocating scene render targets to support 688x480 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-12.06.55:928][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.07.01:180][434]LogHttp: Warning: 000001998A4E7100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.07.01:180][434]LogHttp: Warning: 000001998A4E7100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.07.01:180][434]LogHttp: Warning: 000001998A4E7100: libcurl info message cache 1 (Closing connection 14)
+[2019.05.20-12.07.01:180][434]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.07.18:647][815]LogAssetEditorManager: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2019.05.20-12.07.18:755][815]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.07.19:746][815]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.07.19:778][815]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.07.19:792][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.07.22:764][904]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-12.07.36:270][387]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-12.07.48:822][840]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.05.20-12.07.48:822][840]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.05.20-12.07.48:822][840]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.05.20-12.07.48:823][840]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.20-12.07.48:823][840]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-12.08.28:604][299]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.28:657][299]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.30:261][342]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.30:297][342]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.30:339][342]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.30:375][342]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.30:413][342]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.30:451][342]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.30:489][342]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.30:507][342]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.30:523][342]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.30:867][345]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.30:907][345]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.30:948][345]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.30:981][345]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.31:018][345]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.31:053][345]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.31:513][352]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.31:552][352]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.31:830][354]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.31:830][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.31:877][354]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.31:921][354]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.31:956][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.31:994][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.32:030][354]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.32:647][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.32:689][365]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.33:034][373]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.33:908][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.33:946][398]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.33:983][398]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.34:021][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.34:062][398]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.34:099][398]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.34:214][401]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.34:994][419]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.35:034][419]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.35:077][419]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.35:118][419]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.35:154][419]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.35:187][419]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.35:222][419]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.35:255][419]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.36:137][441]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.36:560][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.36:594][452]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.36:636][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.36:671][452]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.36:710][452]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.36:754][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.36:795][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.36:834][452]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.37:834][477]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.37:846][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.37:888][477]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.37:927][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.37:961][477]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.37:993][477]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.38:029][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.38:066][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.38:099][477]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.39:277][508]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.39:756][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.39:792][520]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.39:833][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.39:871][520]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.39:911][520]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.39:952][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.39:991][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.40:027][520]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.41:214][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.41:253][554]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.41:520][557]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.41:685][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.41:722][560]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.41:755][560]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.41:791][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.41:830][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.41:869][560]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.42:099][564]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.42:252][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.42:289][567]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.43:443][596]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.44:263][619]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.44:302][619]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.44:339][619]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.44:377][619]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.44:416][619]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.44:454][619]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.44:611][622]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.46:202][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.46:240][664]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.46:274][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.20-12.08.46:307][664]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.08.46:334][664]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-12.08.46:783][675]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.08.54:827][956]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-12.09.01:217][179]LogHttp: Warning: 00000199B60039C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.09.01:217][179]LogHttp: Warning: 00000199B60039C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.09.01:217][179]LogHttp: Warning: 00000199B60039C0: libcurl info message cache 1 (Closing connection 15)
+[2019.05.20-12.09.01:245][180]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.09.07:342][391]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-12.09.08:023][412]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.09.08:054][412]LogMaterialEditor: Applying material BasicShapeMaterial
+[2019.05.20-12.09.08:765][412]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.09.08:796][412]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.09.08:905][412]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-12.09.08:937][412]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.09.08:995][412]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.05.20-12.09.09:105][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.05.20-12.09.09:119][412]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.20-12.09.13:714][412]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.20-12.09.13:714][412]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.20-12.09.13:715][412]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.20-12.09.13:719][412]TextureStreamingBuild: Display: Compiling optional shaders took 4.614 seconds.
+[2019.05.20-12.09.13:798][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.05.20-12.09.57:429][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.10.13:775][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.10.36:053][ 75]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.10.36:264][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.05.20-12.10.37:828][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.10.37:861][119]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnA36FAC9B45320D10D0A766AD6F375311.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.10.44:114][323]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.10.44:311][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.05.20-12.10.45:635][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.10.45:705][360]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnC0AD6EC24299AB874931CFAF0EF3FDA7.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.11.00:321][863]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-12.11.01:313][895]LogHttp: Warning: 000001996385F9C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.11.01:313][895]LogHttp: Warning: 000001996385F9C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.11.01:313][895]LogHttp: Warning: 000001996385F9C0: libcurl info message cache 1 (Closing connection 16)
+[2019.05.20-12.11.01:344][896]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.11.13:640][307]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.11.13:841][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.05.20-12.11.15:628][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.11.15:661][357]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawn245DB2044D5C3AA5913DEAA4875D2C8A.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.11.27:468][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.11.27:492][774]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnCE5B38D44487665FEAAB6794AB885757.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.11.29:214][831]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.11.29:408][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.05.20-12.11.31:207][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.11.31:228][883]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnEA72E02249A3FDAD6967A1BED9FFC1C7.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.11.36:755][ 78]LogSlate: Window 'EvilCubePawn' being destroyed
+[2019.05.20-12.12.10:804][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.12.22:368][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.12.24:575][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.12.24:595][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.12.24:596][ 90]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:12:24 PM)
+[2019.05.20-12.12.24:596][ 90]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.12.24:599][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003096s)
+[2019.05.20-12.12.24:599][ 90]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.12.24:600][ 90]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2019.05.20-12.12.24:600][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003928s)
+[2019.05.20-12.12.24:636][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.05.20-12.12.24:638][ 90]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.12.24:645][ 90]LogInit: FAudioDevice initialized.
+[2019.05.20-12.12.24:645][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.12.24:676][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.12.24:677][ 90]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2019.05.20-17.42.24
+[2019.05.20-12.12.24:698][ 90]LogWorld: Bringing up level for play took: 0.021399
+[2019.05.20-12.12.24:713][ 90]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.615
+[2019.05.20-12.12.55:428][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.12.55:480][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.12.55:591][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.12.55:597][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.05.20-12.12.55:648][356]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.20-12.13.01:390][748]LogHttp: Warning: 000001998697D800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.13.01:390][748]LogHttp: Warning: 000001998697D800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.13.01:390][748]LogHttp: Warning: 000001998697D800: libcurl info message cache 1 (Closing connection 17)
+[2019.05.20-12.13.01:390][748]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.13.01:633][766]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-12.13.06:010][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.14.56:226][458]Cmd: EDCALLBACK SURFPROPS
+[2019.05.20-12.15.01:426][803]LogHttp: Warning: 000001992631EAC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.15.01:426][803]LogHttp: Warning: 000001992631EAC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.15.01:427][803]LogHttp: Warning: 000001992631EAC0: libcurl info message cache 1 (Closing connection 18)
+[2019.05.20-12.15.01:442][804]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.15.18:227][935]Cmd: EDCALLBACK SURFPROPS
+[2019.05.20-12.15.18:404][942]Cmd: EDCALLBACK SURFPROPS
+[2019.05.20-12.15.26:018][446]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.15.38:894][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.15.41:184][432]LogEditorViewport: Clicking Background
+[2019.05.20-12.15.42:047][494]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.15.44:157][639]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.15.44:179][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.15.49:896][934]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.05.20-12.15.55:615][195]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.16.42:223][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.16.42:306][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.05.20-12.16.42:339][413]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Untitled_1_Auto3662CBFB84A1D5F0D36E8C29042A6C868.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2019.05.20-12.16.42:342][413]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.083
+[2019.05.20-12.16.42:342][413]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2019.05.20-12.16.42:344][413]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2019.05.20-12.16.42:370][413]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2019.05.20-12.16.42:370][413]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2019.05.20-12.16.42:392][413]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/BasicShapeMaterial_Auto3AA7574464B1F76C92F74CCB38953C09B.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto3.uasset'
+[2019.05.20-12.16.42:393][413]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.05.20-12.16.58:143][503]LogEditorViewport: Clicking Background
+[2019.05.20-12.16.58:209][504]LogEditorViewport: Clicking Background
+[2019.05.20-12.16.58:377][517]LogEditorViewport: Clicking Background
+[2019.05.20-12.17.00:424][665]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.17.00:506][666]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.17.01:474][734]LogHttp: Warning: 000001993B4051C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.17.01:475][734]LogHttp: Warning: 000001993B4051C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.17.01:475][734]LogHttp: Warning: 000001993B4051C0: libcurl info message cache 1 (Closing connection 19)
+[2019.05.20-12.17.01:475][734]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.17.08:018][187]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.20-12.17.09:138][265]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.20-12.17.21:187][ 98]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.17.49:533][ 88]LogEditorViewport: Clicking Background
+[2019.05.20-12.17.50:400][149]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.18.01:383][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.18.49:357][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.18.58:337][742]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.19.01:516][965]LogHttp: Warning: 000001993B2D9440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.19.01:516][965]LogHttp: Warning: 000001993B2D9440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.19.01:517][965]LogHttp: Warning: 000001993B2D9440: libcurl info message cache 1 (Closing connection 20)
+[2019.05.20-12.19.01:531][966]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.20.08:985][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.20.13:403][876]LogEditorViewport: Clicking Background
+[2019.05.20-12.20.19:977][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.20.22:395][410]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.20.22:420][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.20.22:421][410]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:20:22 PM)
+[2019.05.20-12.20.22:421][410]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.20.22:428][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006766s)
+[2019.05.20-12.20.22:429][410]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.20.22:431][410]LogPlayLevel: PIE: World Init took: (0.003429s)
+[2019.05.20-12.20.22:431][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.010599s)
+[2019.05.20-12.20.22:497][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.05.20-12.20.22:501][410]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.20.22:510][410]LogInit: FAudioDevice initialized.
+[2019.05.20-12.20.22:510][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.20.22:539][410]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.20.22:540][410]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2019.05.20-17.50.22
+[2019.05.20-12.20.22:540][410]LogWorld: Bringing up level for play took: 0.000816
+[2019.05.20-12.20.22:588][410]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.49
+[2019.05.20-12.20.51:724][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.20.51:760][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.20.51:864][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.20.51:871][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.05.20-12.20.51:925][516]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.20-12.21.01:566][120]LogHttp: Warning: 000001993B231A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.21.01:567][120]LogHttp: Warning: 000001993B231A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.21.01:567][120]LogHttp: Warning: 000001993B231A80: libcurl info message cache 1 (Closing connection 21)
+[2019.05.20-12.21.01:567][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.21.05:965][379]LogEditorViewport: Clicking Background
+[2019.05.20-12.21.08:087][505]LogEditorViewport: Clicking Background
+[2019.05.20-12.21.10:062][622]LogEditorViewport: Clicking Background
+[2019.05.20-12.22.15:027][517]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.23.01:606][280]LogHttp: Warning: 000001993B1C02C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.23.01:606][280]LogHttp: Warning: 000001993B1C02C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.23.01:606][280]LogHttp: Warning: 000001993B1C02C0: libcurl info message cache 1 (Closing connection 22)
+[2019.05.20-12.23.01:606][280]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.24.02:221][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.24.03:865][958]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.24.03:879][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.24.03:879][958]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:24:03 PM)
+[2019.05.20-12.24.03:879][958]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.24.03:883][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004091s)
+[2019.05.20-12.24.03:884][958]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.24.03:885][958]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2019.05.20-12.24.03:885][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.005453s)
+[2019.05.20-12.24.03:930][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.05.20-12.24.03:932][958]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.24.03:940][958]LogInit: FAudioDevice initialized.
+[2019.05.20-12.24.03:940][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.24.03:967][958]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.24.03:968][958]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-17.54.03
+[2019.05.20-12.24.03:968][958]LogWorld: Bringing up level for play took: 0.000802
+[2019.05.20-12.24.03:982][958]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.116
+[2019.05.20-12.25.01:656][404]LogHttp: Warning: 000001993B27D440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.25.01:656][404]LogHttp: Warning: 000001993B27D440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.25.01:656][404]LogHttp: Warning: 000001993B27D440: libcurl info message cache 1 (Closing connection 23)
+[2019.05.20-12.25.01:656][404]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.25.48:779][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.25.48:815][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.25.48:900][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.25.48:909][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.05.20-12.25.48:969][230]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.20-12.25.50:542][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.25.50:743][313]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubePawn.EvilCubePawn
+[2019.05.20-12.27.01:704][275]LogHttp: Warning: 000001998A2D2340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.27.01:704][275]LogHttp: Warning: 000001998A2D2340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.27.01:704][275]LogHttp: Warning: 000001998A2D2340: libcurl info message cache 1 (Closing connection 24)
+[2019.05.20-12.27.01:704][275]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.29.01:757][124]LogHttp: Warning: 0000019964FB1BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.29.01:757][124]LogHttp: Warning: 0000019964FB1BC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.29.01:757][124]LogHttp: Warning: 0000019964FB1BC0: libcurl info message cache 1 (Closing connection 25)
+[2019.05.20-12.29.01:782][125]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.30.01:788][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.05.20-12.30.01:819][570]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Untitled_1_Auto4E5B43E194971E327255C2DA05140624E.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2019.05.20-12.30.01:883][570]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.157
+[2019.05.20-12.30.01:883][570]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.157
+[2019.05.20-12.30.01:886][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/EvilCubePawn] ([1] browsable assets)...
+[2019.05.20-12.30.01:980][570]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/EvilCubePawn.EvilCubePawn]
+[2019.05.20-12.30.01:980][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/EvilCubePawn]
+[2019.05.20-12.30.02:048][570]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawn_Auto45C3374D84F679A317684C4A263FEE08F.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Game/BluePrints/EvilCubePawn_Auto4.uasset'
+[2019.05.20-12.30.02:050][570]LogFileHelpers: Auto-saving content packages took 0.165
+[2019.05.20-12.30.10:759][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.31.01:823][924]LogHttp: Warning: 00000199BF2F2840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.31.01:823][924]LogHttp: Warning: 00000199BF2F2840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.31.01:823][924]LogHttp: Warning: 00000199BF2F2840: libcurl info message cache 1 (Closing connection 26)
+[2019.05.20-12.31.01:852][925]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.31.29:137][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.31.29:180][ 36]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawn30D79C164A12204E5D660C90BDA2C6E3.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.31.30:224][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.31.30:367][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.31.30:406][ 81]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawn6BC549AA4FCA86F138B52E9732E26923.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.31.31:231][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.31.31:306][117]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.31.31:515][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.05.20-12.31.32:817][170]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.31.33:059][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.05.20-12.31.35:042][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.31.35:067][242]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnE0D350A94712C725D1E2ADB5571BBF5B.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.31.38:730][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.31.43:309][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.31.45:116][750]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.31.45:139][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.31.45:139][750]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:31:45 PM)
+[2019.05.20-12.31.45:139][750]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.31.45:143][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003905s)
+[2019.05.20-12.31.45:144][750]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.31.45:144][750]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.05.20-12.31.45:144][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.005111s)
+[2019.05.20-12.31.45:189][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.05.20-12.31.45:190][750]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.31.45:197][750]LogInit: FAudioDevice initialized.
+[2019.05.20-12.31.45:198][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.31.45:225][750]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.31.45:226][750]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-18.01.45
+[2019.05.20-12.31.45:226][750]LogWorld: Bringing up level for play took: 0.000772
+[2019.05.20-12.31.45:240][750]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.858
+[2019.05.20-12.31.48:256][929]LogRenderer: Reallocating scene render targets to support 704x480 Format 10 NumSamples 1 (Frame:165).
+[2019.05.20-12.31.48:339][930]LogRenderer: Reallocating scene render targets to support 716x480 Format 10 NumSamples 1 (Frame:166).
+[2019.05.20-12.31.48:384][931]LogRenderer: Reallocating scene render targets to support 732x480 Format 10 NumSamples 1 (Frame:167).
+[2019.05.20-12.31.48:450][932]LogRenderer: Reallocating scene render targets to support 744x480 Format 10 NumSamples 1 (Frame:168).
+[2019.05.20-12.31.48:508][933]LogRenderer: Reallocating scene render targets to support 764x480 Format 10 NumSamples 1 (Frame:169).
+[2019.05.20-12.31.48:561][934]LogRenderer: Reallocating scene render targets to support 780x480 Format 10 NumSamples 1 (Frame:170).
+[2019.05.20-12.31.48:630][935]LogRenderer: Reallocating scene render targets to support 784x480 Format 10 NumSamples 1 (Frame:171).
+[2019.05.20-12.31.57:102][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.31.57:177][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.31.57:280][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.31.57:291][429]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.05.20-12.31.57:365][430]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.20-12.31.58:485][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.31.59:235][511]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubeAI.EvilCubeAI
+[2019.05.20-12.33.01:916][957]LogHttp: Warning: 00000199BF7BE700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.33.01:916][957]LogHttp: Warning: 00000199BF7BE700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.33.01:916][957]LogHttp: Warning: 00000199BF7BE700: libcurl info message cache 1 (Closing connection 27)
+[2019.05.20-12.33.01:916][957]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.33.09:501][261]BlueprintLog: New page: Compile EvilCubeAI
+[2019.05.20-12.33.09:721][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.05.20-12.33.10:959][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubeAI" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubeAI.uasset" SILENT=true
+[2019.05.20-12.33.10:992][302]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubeAI5F1D6C634FA5CA62EF58A093978866A4.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubeAI.uasset'
+[2019.05.20-12.33.12:621][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.33.21:369][678]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.05.20-12.33.21:474][679]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.05.20-12.33.21:573][680]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.05.20-12.33.21:654][681]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.05.20-12.33.21:728][682]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.05.20-12.33.21:838][684]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2019.05.20-12.33.21:915][685]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2019.05.20-12.33.21:993][686]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2019.05.20-12.33.39:177][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.33.39:217][236]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnE1A9AA964BADC35DB155138BBC326558.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.33.39:886][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.33.39:999][257]LogSlate: Window 'EvilCubePawn' being destroyed
+[2019.05.20-12.33.40:028][257]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.20-12.33.41:287][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.33.41:490][299]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubeAI.EvilCubeAI
+[2019.05.20-12.34.07:901][236]BlueprintLog: New page: Compile EvilCubeAI
+[2019.05.20-12.34.08:254][236]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.05.20-12.34.09:988][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubeAI" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubeAI.uasset" SILENT=true
+[2019.05.20-12.34.10:024][289]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubeAI3511F22B4D02A9AE1A99AF9B3AAA0572.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubeAI.uasset'
+[2019.05.20-12.34.12:713][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.34.14:999][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.34.19:013][651]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.34.19:051][651]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.20-12.34.19:052][651]LogPlayLevel: [PlayLevel] Compiling EvilCubePawn before play...
+[2019.05.20-12.34.19:364][651]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.05.20-12.34.19:364][651]LogPlayLevel: PlayLevel: Blueprint regeneration took 313 ms (1 blueprints)
+[2019.05.20-12.34.19:364][651]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:34:19 PM)
+[2019.05.20-12.34.19:364][651]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.34.19:368][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003954s)
+[2019.05.20-12.34.19:369][651]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.34.19:369][651]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2019.05.20-12.34.19:369][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.005116s)
+[2019.05.20-12.34.19:453][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.05.20-12.34.19:457][651]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.34.19:468][651]LogInit: FAudioDevice initialized.
+[2019.05.20-12.34.19:499][651]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.34.19:500][651]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-18.04.19
+[2019.05.20-12.34.19:501][651]LogWorld: Bringing up level for play took: 0.001129
+[2019.05.20-12.34.19:516][651]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.418
+[2019.05.20-12.34.19:530][652]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063633 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2019.05.20-12.35.01:938][244]LogHttp: Warning: 0000019969AD5080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.35.01:938][244]LogHttp: Warning: 0000019969AD5080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.35.01:938][244]LogHttp: Warning: 0000019969AD5080: libcurl info message cache 1 (Closing connection 28)
+[2019.05.20-12.35.01:951][245]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.35.44:501][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.35.44:547][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.35.44:596][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.35.44:601][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.05.20-12.35.44:652][485]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.20-12.36.06:224][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.36.06:419][ 18]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubePawn.EvilCubePawn
+[2019.05.20-12.37.02:008][361]LogHttp: Warning: 00000199DA3D4F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.37.02:008][361]LogHttp: Warning: 00000199DA3D4F40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.37.02:008][361]LogHttp: Warning: 00000199DA3D4F40: libcurl info message cache 1 (Closing connection 29)
+[2019.05.20-12.37.02:008][361]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.37.44:144][163]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-12.39.02:036][446]LogHttp: Warning: 00000199DB3D60C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.39.02:036][446]LogHttp: Warning: 00000199DB3D60C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.39.02:036][446]LogHttp: Warning: 00000199DB3D60C0: libcurl info message cache 1 (Closing connection 30)
+[2019.05.20-12.39.02:058][447]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.41.02:081][468]LogHttp: Warning: 00000199DB3D4A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.41.02:081][468]LogHttp: Warning: 00000199DB3D4A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.41.02:081][468]LogHttp: Warning: 00000199DB3D4A40: libcurl info message cache 1 (Closing connection 31)
+[2019.05.20-12.41.02:103][469]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.41.40:055][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.05.20-12.41.40:087][164]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Untitled_1_Auto58D5E4B904964EE4333D53F960FC508D2.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2019.05.20-12.41.40:090][164]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.084
+[2019.05.20-12.41.40:090][164]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
+[2019.05.20-12.41.40:092][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/EvilCubePawn] ([1] browsable assets)...
+[2019.05.20-12.41.40:186][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/EvilCubePawn.EvilCubePawn]
+[2019.05.20-12.41.40:186][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/EvilCubePawn]
+[2019.05.20-12.41.40:225][164]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawn_Auto54DAC835D438E92C9779103BACE3AC218.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Game/BluePrints/EvilCubePawn_Auto5.uasset'
+[2019.05.20-12.41.40:228][164]LogFileHelpers: Auto-saving content packages took 0.136
+[2019.05.20-12.43.02:152][751]LogHttp: Warning: 00000199DE249940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.43.02:152][751]LogHttp: Warning: 00000199DE249940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.43.02:152][751]LogHttp: Warning: 00000199DE249940: libcurl info message cache 1 (Closing connection 32)
+[2019.05.20-12.43.02:153][751]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.45.02:178][ 35]LogHttp: Warning: 00000199DF01B880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.45.02:178][ 35]LogHttp: Warning: 00000199DF01B880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.45.02:179][ 35]LogHttp: Warning: 00000199DF01B880: libcurl info message cache 1 (Closing connection 33)
+[2019.05.20-12.45.02:179][ 35]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.46.16:990][328]LogSlate: Took 0.043999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.20-12.47.02:226][378]LogHttp: Warning: 00000199DB8B5580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.47.02:226][378]LogHttp: Warning: 00000199DB8B5580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.47.02:226][378]LogHttp: Warning: 00000199DB8B5580: libcurl info message cache 1 (Closing connection 34)
+[2019.05.20-12.47.02:249][379]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.48.25:416][ 78]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.48.25:619][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.05.20-12.48.26:973][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.48.27:043][126]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawnCD24DD8848A981329BC0519DD4219655.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.48.35:479][502]BlueprintLog: New page: Compile EvilCubePawn
+[2019.05.20-12.48.35:674][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.05.20-12.48.36:756][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EvilCubePawn" FILE="../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset" SILENT=true
+[2019.05.20-12.48.36:785][539]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/EvilCubePawn746A73784A08F6D911EB2ABC5008570D.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Content/BluePrints/EvilCubePawn.uasset'
+[2019.05.20-12.48.40:322][693]LogSlate: Window 'EvilCubeAI' being destroyed
+[2019.05.20-12.48.40:345][693]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.20-12.48.44:756][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.48.44:764][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.48.44:764][972]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:48:44 PM)
+[2019.05.20-12.48.44:765][972]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.48.44:768][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003181s)
+[2019.05.20-12.48.44:769][972]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.48.44:771][972]LogPlayLevel: PIE: World Init took: (0.003086s)
+[2019.05.20-12.48.44:771][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.006499s)
+[2019.05.20-12.48.44:809][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.05.20-12.48.44:811][972]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.48.44:818][972]LogInit: FAudioDevice initialized.
+[2019.05.20-12.48.44:850][972]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.48.44:851][972]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2019.05.20-18.18.44
+[2019.05.20-12.48.44:851][972]LogWorld: Bringing up level for play took: 0.000832
+[2019.05.20-12.48.44:866][972]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.768
+[2019.05.20-12.49.00:721][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.49.00:766][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.49.00:807][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.49.00:812][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.05.20-12.49.00:860][215]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.20-12.49.02:297][321]LogHttp: Warning: 000001998CAFA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.49.02:297][321]LogHttp: Warning: 000001998CAFA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.49.02:297][321]LogHttp: Warning: 000001998CAFA200: libcurl info message cache 1 (Closing connection 35)
+[2019.05.20-12.49.02:297][321]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.49.15:548][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.49.32:131][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.49.34:670][738]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.49.34:682][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.49.34:682][738]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:49:34 PM)
+[2019.05.20-12.49.34:682][738]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.49.34:685][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2019.05.20-12.49.34:686][738]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.49.34:686][738]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2019.05.20-12.49.34:686][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003894s)
+[2019.05.20-12.49.34:723][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.05.20-12.49.34:724][738]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.49.34:731][738]LogInit: FAudioDevice initialized.
+[2019.05.20-12.49.34:758][738]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.49.34:759][738]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2019.05.20-18.19.34
+[2019.05.20-12.49.34:759][738]LogWorld: Bringing up level for play took: 0.000779
+[2019.05.20-12.49.34:774][738]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.675
+[2019.05.20-12.49.45:553][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.49.45:598][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.49.45:642][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.49.45:646][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.05.20-12.49.45:695][598]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.20-12.50.22:395][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.50.23:745][428]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.50.23:756][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.50.23:756][428]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:50:23 PM)
+[2019.05.20-12.50.23:756][428]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.50.23:759][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003316s)
+[2019.05.20-12.50.23:760][428]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.50.23:760][428]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2019.05.20-12.50.23:760][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.004230s)
+[2019.05.20-12.50.23:797][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.05.20-12.50.23:799][428]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.50.23:805][428]LogInit: FAudioDevice initialized.
+[2019.05.20-12.50.23:806][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.50.23:835][428]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.50.23:836][428]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2019.05.20-18.20.23
+[2019.05.20-12.50.23:837][428]LogWorld: Bringing up level for play took: 0.001911
+[2019.05.20-12.50.23:857][428]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.241
+[2019.05.20-12.50.30:700][968]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1.776 Y=-241.939 Z=29.768] for [FirstPersonProjectile_C]
+[2019.05.20-12.50.30:952][988]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1.275 Y=-241.706 Z=30.052] for [FirstPersonProjectile_C]
+[2019.05.20-12.50.31:552][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=32.818 Y=-241.366 Z=41.720] for [FirstPersonProjectile_C]
+[2019.05.20-12.50.37:677][513]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=38.693 Y=402.959 Z=47.096] for [FirstPersonProjectile_C]
+[2019.05.20-12.50.55:096][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.50.55:137][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.50.55:177][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.50.55:181][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.05.20-12.50.55:200][870]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.20-12.51.02:294][378]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-12.51.02:391][383]LogHttp: Warning: 00000199CEE88F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.51.02:391][383]LogHttp: Warning: 00000199CEE88F40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.51.02:391][383]LogHttp: Warning: 00000199CEE88F40: libcurl info message cache 1 (Closing connection 36)
+[2019.05.20-12.51.02:391][383]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.51.27:496][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.52.00:754][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.52.18:531][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.52.33:153][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.52.41:480][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.53.02:438][ 84]LogHttp: Warning: 00000199BF9956C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.53.02:438][ 84]LogHttp: Warning: 00000199BF9956C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.53.02:438][ 84]LogHttp: Warning: 00000199BF9956C0: libcurl info message cache 1 (Closing connection 37)
+[2019.05.20-12.53.02:452][ 85]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.53.11:078][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.53.16:903][148]Cmd: EDCALLBACK SURFPROPS
+[2019.05.20-12.53.22:234][540]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2019.05.20-12.53.38:351][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.53.40:218][834]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.53.40:230][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.53.40:230][834]PIE: New page: PIE session: Untitled_1 (May 20, 2019, 11:53:40 PM)
+[2019.05.20-12.53.40:230][834]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-12.53.40:233][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2019.05.20-12.53.40:234][834]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.53.40:234][834]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2019.05.20-12.53.40:235][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.004400s)
+[2019.05.20-12.53.40:282][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.05.20-12.53.40:284][834]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-12.53.40:291][834]LogInit: FAudioDevice initialized.
+[2019.05.20-12.53.40:323][834]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.53.40:324][834]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2019.05.20-18.23.40
+[2019.05.20-12.53.40:324][834]LogWorld: Bringing up level for play took: 0.000953
+[2019.05.20-12.53.40:339][834]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.241
+[2019.05.20-12.54.04:113][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.54.04:155][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.54.04:196][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.54.04:200][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.05.20-12.54.04:220][711]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.20-12.54.09:817][127]Cmd: EDCALLBACK SURFPROPS
+[2019.05.20-12.54.19:240][822]LogEditorViewport: Clicking Background
+[2019.05.20-12.54.34:819][963]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.54.35:575][ 18]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-12.54.35:725][ 25]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.05.20-12.54.57:728][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.55.02:483][ 36]LogHttp: Warning: 00000199BF92AD40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.55.02:483][ 36]LogHttp: Warning: 00000199BF92AD40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.55.02:483][ 36]LogHttp: Warning: 00000199BF92AD40: libcurl info message cache 1 (Closing connection 38)
+[2019.05.20-12.55.02:497][ 37]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.55.26:094][240]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.05.20-12.55.29:746][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.55.52:675][ 65]LogEditorViewport: Clicking Background
+[2019.05.20-12.55.53:545][131]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.56.21:086][182]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-12.56.34:870][208]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-12.57.02:520][260]LogHttp: Warning: 000001998AA29A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.57.02:520][260]LogHttp: Warning: 000001998AA29A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.57.02:520][260]LogHttp: Warning: 000001998AA29A80: libcurl info message cache 1 (Closing connection 39)
+[2019.05.20-12.57.02:534][261]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-12.57.21:827][688]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.22:004][700]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.32:731][503]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.33:928][593]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.05.20-12.57.34:044][597]LogEditorViewport: Clicking on Component (LMB): SkyLightComponent (SkyLightComponent0)
+[2019.05.20-12.57.34:824][653]LogEditorViewport: Clicking on Component (LMB): SkyLightComponent (SkyLightComponent0)
+[2019.05.20-12.57.37:659][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.57.48:787][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.57.52:665][977]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.54:741][133]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.55:411][182]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.55:516][189]LogEditorViewport: Clicking Background
+[2019.05.20-12.57.55:753][207]LogEditorViewport: Clicking Background
+[2019.05.20-12.58.20:998][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.58.21:072][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.05.20-12.58.21:107][121]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Untitled_1_Auto643EFB7154B297B3B8B532D9CA583C350.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2019.05.20-12.58.21:110][121]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.088
+[2019.05.20-12.58.21:110][121]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2019.05.20-12.59.02:550][274]LogHttp: Warning: 00000199ABF8E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-12.59.02:550][274]LogHttp: Warning: 00000199ABF8E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-12.59.02:550][274]LogHttp: Warning: 00000199ABF8E340: libcurl info message cache 1 (Closing connection 40)
+[2019.05.20-12.59.02:563][275]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.01.02:603][414]LogHttp: Warning: 00000199ABF8E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.01.02:603][414]LogHttp: Warning: 00000199ABF8E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.01.02:603][414]LogHttp: Warning: 00000199ABF8E340: libcurl info message cache 1 (Closing connection 41)
+[2019.05.20-13.01.02:616][415]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.03.02:665][893]LogHttp: Warning: 00000199ABF8D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.03.02:665][893]LogHttp: Warning: 00000199ABF8D300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.03.02:665][893]LogHttp: Warning: 00000199ABF8D300: libcurl info message cache 1 (Closing connection 42)
+[2019.05.20-13.03.02:665][893]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.03.31:245][607]LogEditorViewport: Clicking Background
+[2019.05.20-13.03.33:907][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.03.35:366][853]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-13.03.35:375][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-13.03.35:376][853]PIE: New page: PIE session: Untitled_1 (May 21, 2019, 12:03:35 AM)
+[2019.05.20-13.03.35:376][853]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-13.03.35:381][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005263s)
+[2019.05.20-13.03.35:382][853]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-13.03.35:382][853]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.05.20-13.03.35:382][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.006407s)
+[2019.05.20-13.03.35:424][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.05.20-13.03.35:426][853]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-13.03.35:434][853]LogInit: FAudioDevice initialized.
+[2019.05.20-13.03.35:434][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.03.35:467][853]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-13.03.35:470][853]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-18.33.35
+[2019.05.20-13.03.35:471][853]LogWorld: Bringing up level for play took: 0.002579
+[2019.05.20-13.03.35:491][853]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.607
+[2019.05.20-13.03.38:598][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-13.03.38:627][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-13.03.38:668][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-13.03.38:673][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.05.20-13.03.38:697][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.20-13.03.52:100][839]LogEditorViewport: Clicking Background
+[2019.05.20-13.03.52:200][845]LogEditorViewport: Clicking Background
+[2019.05.20-13.03.52:399][857]LogEditorViewport: Clicking Background
+[2019.05.20-13.03.53:283][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.03.59:287][259]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EvilCubeAI.EvilCubeAI
+[2019.05.20-13.04.03:050][414]LogSlate: Window 'EvilCubeAI' being destroyed
+[2019.05.20-13.04.04:901][513]LogEditorViewport: Clicking Background
+[2019.05.20-13.04.05:201][531]LogEditorViewport: Clicking Background
+[2019.05.20-13.04.05:435][545]LogEditorViewport: Clicking Background
+[2019.05.20-13.04.05:851][570]LogEditorViewport: Clicking Background
+[2019.05.20-13.04.05:951][576]LogEditorViewport: Clicking Background
+[2019.05.20-13.04.06:185][590]LogEditorViewport: Clicking Background
+[2019.05.20-13.04.09:184][770]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.04.21:363][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.05.00:632][850]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.05.02:716][976]LogHttp: Warning: 00000199B6003D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.05.02:716][976]LogHttp: Warning: 00000199B6003D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.05.02:716][976]LogHttp: Warning: 00000199B6003D80: libcurl info message cache 1 (Closing connection 43)
+[2019.05.20-13.05.02:731][977]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.05.41:192][254]LogSlate: Window 'NavMeshBoundsVolume_1 - Property Editor' being destroyed
+[2019.05.20-13.05.41:212][254]LogSlate: Window 'NavMeshBoundsVolume_1 - Property Editor' being destroyed
+[2019.05.20-13.05.49:092][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.05.55:811][128]LogEditorViewport: Clicking Background
+[2019.05.20-13.05.55:887][132]LogEditorViewport: Clicking Background
+[2019.05.20-13.05.56:641][177]LogEditorViewport: Clicking Background
+[2019.05.20-13.05.56:775][185]LogEditorViewport: Clicking Background
+[2019.05.20-13.05.58:446][285]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.05.59:112][323]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.05.59:912][370]LogEditorViewport: Clicking Background
+[2019.05.20-13.06.06:312][753]LogEditorViewport: Clicking Background
+[2019.05.20-13.06.06:724][777]LogEditorViewport: Clicking Background
+[2019.05.20-13.06.10:427][999]LogEditorViewport: Clicking Background
+[2019.05.20-13.06.10:510][  4]LogEditorViewport: Clicking Background
+[2019.05.20-13.06.10:660][ 13]LogEditorViewport: Clicking Background
+[2019.05.20-13.07.02:773][813]LogHttp: Warning: 00000199BFF6C2C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.07.02:773][813]LogHttp: Warning: 00000199BFF6C2C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.07.02:773][813]LogHttp: Warning: 00000199BFF6C2C0: libcurl info message cache 1 (Closing connection 44)
+[2019.05.20-13.07.02:773][813]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.08.24:479][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.08.24:592][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.05.20-13.08.24:625][139]LogSavePackage: Moving '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Untitled_1_Auto77B6680C645D984480679FA8CF439D706.tmp' to '../../../../../../Users/Asus/Documents/Unreal Projects/EvilCube/Saved/Autosaves/Temp/Untitled_1_Auto7.umap'
+[2019.05.20-13.08.24:628][139]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.103
+[2019.05.20-13.08.24:628][139]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2019.05.20-13.08.42:514][511]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.42:634][517]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.43:776][602]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.44:341][643]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.44:426][649]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.44:698][667]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.44:760][671]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.08.47:852][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.08.59:304][375]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.20-13.09.02:819][645]LogHttp: Warning: 000001993ED79440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.09.02:819][645]LogHttp: Warning: 000001993ED79440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.09.02:819][645]LogHttp: Warning: 000001993ED79440: libcurl info message cache 1 (Closing connection 45)
+[2019.05.20-13.09.02:819][645]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.09.08:004][658]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.20-13.09.19:832][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.09.28:680][201]Cmd: MODE GRID=0
+[2019.05.20-13.09.29:829][277]LogEditorViewport: Clicking Background
+[2019.05.20-13.09.31:189][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.09.31:281][386]Cmd: MODE GRID=1
+[2019.05.20-13.09.32:087][448]Cmd: MODE GRID=0
+[2019.05.20-13.09.32:274][461]Cmd: MODE GRID=1
+[2019.05.20-13.09.32:972][512]Cmd: MODE GRID=0
+[2019.05.20-13.09.33:208][529]Cmd: MODE GRID=1
+[2019.05.20-13.09.36:153][747]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.09.36:237][748]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.09.45:390][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.09.50:713][619]LogEditorViewport: Clicking Background
+[2019.05.20-13.09.51:609][671]LogEditorViewport: Clicking Background
+[2019.05.20-13.09.57:421][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.09.58:615][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-13.09.58:628][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-13.09.58:628][ 90]PIE: New page: PIE session: Untitled_1 (May 21, 2019, 12:09:58 AM)
+[2019.05.20-13.09.58:628][ 90]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-13.09.58:631][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003283s)
+[2019.05.20-13.09.58:632][ 90]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-13.09.58:632][ 90]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2019.05.20-13.09.58:632][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.004270s)
+[2019.05.20-13.09.58:670][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.05.20-13.09.58:671][ 90]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-13.09.58:678][ 90]LogInit: FAudioDevice initialized.
+[2019.05.20-13.09.58:678][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.09.58:706][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-13.09.58:707][ 90]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-18.39.58
+[2019.05.20-13.09.58:707][ 90]LogWorld: Bringing up level for play took: 0.001039
+[2019.05.20-13.09.58:722][ 90]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.624
+[2019.05.20-13.10.21:760][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-13.10.21:798][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-13.10.21:925][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-13.10.21:937][469]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.05.20-13.10.22:001][470]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.20-13.10.23:646][564]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-13.10.23:859][574]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.05.20-13.10.25:077][640]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.05.20-13.10.28:506][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.10.30:619][857]LogAssetEditorManager: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2019.05.20-13.10.31:360][857]LogMaterial: Display: Missing cached shader map for material HoveredFaceMaterial, compiling. 
+[2019.05.20-13.10.31:373][857]LogMaterial: Display: Missing cached shader map for material WireMaterial, compiling. 
+[2019.05.20-13.10.31:406][857]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-13.10.31:407][857]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-13.10.31:407][857]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-13.10.31:407][857]LogMaterial: Display: Missing cached shader map for material OverlayPointMaterial, compiling. 
+[2019.05.20-13.10.31:424][857]LogMaterial: Display: Missing cached shader map for material HoveredGeometryMaterial, compiling. 
+[2019.05.20-13.10.31:440][857]LogMaterial: Display: Missing cached shader map for material OverlayLineMaterial, compiling. 
+[2019.05.20-13.10.32:301][857]LogRenderer: Reallocating scene render targets to support 816x480 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-13.10.43:839][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.10.43:983][158]LogSlate: Window 'Cube' being destroyed
+[2019.05.20-13.10.44:023][158]LogSlate: Window 'Cube' being destroyed
+[2019.05.20-13.10.47:631][322]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.05.20-13.11.02:864][113]LogHttp: Warning: 0000019925AC8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.11.02:864][113]LogHttp: Warning: 0000019925AC8400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.11.02:864][113]LogHttp: Warning: 0000019925AC8400: libcurl info message cache 1 (Closing connection 46)
+[2019.05.20-13.11.02:864][113]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.11.18:451][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.11.19:733][979]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-13.11.19:748][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-13.11.19:748][979]PIE: New page: PIE session: Untitled_1 (May 21, 2019, 12:11:19 AM)
+[2019.05.20-13.11.19:749][979]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.05.20-13.11.19:755][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006787s)
+[2019.05.20-13.11.19:757][979]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-13.11.19:757][979]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2019.05.20-13.11.19:757][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.008385s)
+[2019.05.20-13.11.19:798][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.05.20-13.11.19:802][979]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-13.11.19:809][979]LogInit: FAudioDevice initialized.
+[2019.05.20-13.11.19:809][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.11.19:838][979]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-13.11.19:839][979]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 60) at 2019.05.20-18.41.19
+[2019.05.20-13.11.19:839][979]LogWorld: Bringing up level for play took: 0.001029
+[2019.05.20-13.11.19:854][979]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.244
+[2019.05.20-13.11.25:827][332]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3.971 Y=-612.981 Z=-251.004] for [FirstPersonProjectile_C]
+[2019.05.20-13.11.26:061][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4.179 Y=-611.139 Z=-249.020] for [FirstPersonProjectile_C]
+[2019.05.20-13.11.26:266][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4.861 Y=-610.699 Z=-247.707] for [FirstPersonProjectile_C]
+[2019.05.20-13.11.26:401][366]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6.408 Y=-612.391 Z=-245.062] for [FirstPersonProjectile_C]
+[2019.05.20-13.11.27:456][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3.981 Y=-591.835 Z=-240.597] for [FirstPersonProjectile_C]
+[2019.05.20-13.11.27:823][451]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4.318 Y=-591.860 Z=-240.593] for [FirstPersonProjectile_C]
+[2019.05.20-13.11.33:845][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-13.11.33:884][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-13.11.33:971][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-13.11.33:978][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.05.20-13.11.34:032][812]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.20-13.11.35:888][916]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-13.11.37:296][997]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-13.11.40:260][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.11.43:255][349]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-13.11.43:637][370]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-13.11.44:342][411]LogEditorViewport: Clicking Background
+[2019.05.20-13.11.45:760][495]LogEditorViewport: Clicking Background
+[2019.05.20-13.11.46:529][541]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.20-13.11.49:060][688]LogEditorViewport: Clicking on Actor (LMB): EvilCubePawn_C (EvilCubePawn)
+[2019.05.20-13.11.49:260][696]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.05.20-13.11.52:345][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.11.56:976][995]LogAssetEditorManager: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2019.05.20-13.12.07:415][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.12.07:868][268]LogMaterial: Display: Missing cached shader map for material Material_8, compiling. 
+[2019.05.20-13.12.07:869][268]LogMaterial: Warning: /Engine/Transient.Material_8 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-13.12.07:869][268]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.05.20-13.12.08:699][285]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2019.05.20-13.12.08:718][285]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2019.05.20-13.12.08:855][285]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.05.20-13.12.08:947][285]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.05.20-13.12.09:012][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2019.05.20-13.12.09:021][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2019.05.20-13.12.09:030][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2019.05.20-13.12.09:040][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2019.05.20-13.12.09:049][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.05.20-13.12.09:372][285]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.05.20-13.12.10:090][285]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.20-13.12.10:972][285]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.20-13.12.12:098][285]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.20-13.12.12:302][285]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2019.05.20-13.12.13:674][316]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.20-13.12.17:896][422]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.20-13.12.20:472][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.12.32:401][803]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-13.12.44:344][121]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-13.12.52:119][329]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-13.12.57:719][478]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-13.12.59:292][519]MaterialEditorStats: Base pass shader: 142 instructions
+[2019.05.20-13.12.59:292][519]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 216 instructions
+[2019.05.20-13.12.59:292][519]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.05.20-13.12.59:292][519]MaterialEditorStats: Texture samplers: 5/16
+[2019.05.20-13.12.59:292][519]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.05.20-13.12.59:292][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.20-13.13.02:904][615]LogHttp: Warning: 0000019988620E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.13.02:904][615]LogHttp: Warning: 0000019988620E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.13.02:904][615]LogHttp: Warning: 0000019988620E00: libcurl info message cache 1 (Closing connection 47)
+[2019.05.20-13.13.02:904][615]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.13.08:106][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-13.15.02:940][700]LogHttp: Warning: 0000019988622700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.15.02:940][700]LogHttp: Warning: 0000019988622700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.15.02:940][700]LogHttp: Warning: 0000019988622700: libcurl info message cache 1 (Closing connection 48)
+[2019.05.20-13.15.02:978][701]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.17.03:015][914]LogHttp: Warning: 000001993B191D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.20-13.17.03:016][914]LogHttp: Warning: 000001993B191D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.20-13.17.03:016][914]LogHttp: Warning: 000001993B191D00: libcurl info message cache 1 (Closing connection 49)
+[2019.05.20-13.17.03:044][915]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F625F66-4BF0-B66C-1EC3-8397A09438F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=3f814e82458065f276022bbd34b40079%7C9da55cbd2a97421ba461dab01d7742aa%7Ce45dec00-3327-4439-b616-c2a792d9bc88&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.20-13.17.36:734][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.17.49:241][298]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/VolumeTextureThumbnailMaterial.VolumeTextureThumbnailMaterial
+[2019.05.20-13.17.49:248][298]LogMaterial: Display: Missing cached shader map for material VolumeTextureThumbnailMaterial, compiling. 
+[2019.05.20-13.17.49:316][298]LogMaterial: Display: Missing cached shader map for material VolumeTextureThumbnailMaterial, compiling. 
+[2019.05.20-13.17.49:326][298]LogMaterial: Display: Missing cached shader map for material VolumeTextureThumbnailMaterial, compiling. 
+[2019.05.20-13.17.49:361][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterVolume_0, compiling. 
+[2019.05.20-13.17.49:370][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2019.05.20-13.17.56:137][485]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.05.20-13.17.56:137][485]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.20-13.17.56:137][485]MaterialEditorStats: Texture samplers: 1/16
+[2019.05.20-13.17.56:137][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.20-13.18.02:670][538]LogSlate: Window 'Message' being destroyed
+[2019.05.20-13.18.03:215][538]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.05.20-13.18.03:326][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-13.18.03:346][538]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-13.18.15:991][538]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-13.18.16:190][538]LogWindows: Windows GetLastError: The operation completed successfully. (0)
